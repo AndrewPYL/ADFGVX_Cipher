@@ -1,5 +1,5 @@
 <script>
-  import Scroller from "@sveltejs/svelte-scroller";
+
   import Topic from "./Topic.svelte";
   import P2 from "./P2.svelte";
   import P3 from "./P3.svelte";
