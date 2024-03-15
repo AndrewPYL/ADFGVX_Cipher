@@ -22,8 +22,6 @@
   import P21 from "./P21.svelte";
   import Map from "./Mapping.svelte";
 
-  import InteractiveSection from "./InteractiveSection.svelte";
-
   import { geoMercator } from "d3-geo";
 
   let count, index, offset, progress;
