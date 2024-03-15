@@ -21,7 +21,6 @@
   import P20 from "./P20.svelte";
   import P21 from "./P21.svelte";
   import Map from "./Mapping.svelte";
-  import Point from './Svgmap2.svelte';
 
   import InteractiveSection from "./InteractiveSection.svelte";
 
